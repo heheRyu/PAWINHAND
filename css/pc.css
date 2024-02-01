@@ -1,0 +1,213 @@
+::-webkit-scrollbar{
+    display: none;
+}
+
+.wrap,.page_wrap{
+    position: fixed;
+    background-color: black;
+}
+.page{
+    position:relative;
+    border: 1px solid #ffffff;
+    left: 0;
+    overflow: hidden;
+    
+}
+.p{
+    color: #ffffff
+}
+.mainlogo{
+    width: 20vw;
+    height: 20vw;
+    margin: 2vw auto;
+    background-color: #ffffff;
+}
+.maintit{
+    font-size: 16rem;
+    text-align: center;
+    margin-top: -7vh;
+}
+.subtit{
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 11vh;
+}
+.icon{
+    width: 2.8vw;
+    height: 2.8vw;
+    position: fixed;
+    top: 1.5vw;
+    background-color: #ffffff;
+}
+.logo{
+    left: 3vw;
+}
+.menuicon{
+    border-radius: 2vw;
+    right: 3vw;
+}
+
+
+/* =======page2======= */
+.character{
+    width: 20vw;
+    height: 20vw;
+    margin: 13vw auto;
+    background-color: #ffffff;
+}
+.character_name{
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: -10.5vw;
+    
+}
+
+
+/* =======page3======= */
+.story_img1{
+    width: 78vw;
+    height: 28vw;
+    margin: 12vw auto;
+    border-radius: 2vw;
+    background-color: #ffffff;
+}
+
+
+/* =======page4======= */
+.story1{
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 23vw;
+}
+
+/* =======page5======= */
+.story_img2{
+    width: 78vw;
+    height: 28vw;
+    margin: 12vw auto;
+    border-radius: 2vw;
+    background-color: #ffffff;
+}
+
+/* =======page6======= */
+.story2{
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 23vw;
+
+}
+
+/* =======page7======= */
+.story_img3{
+    float: left;
+    /* position: absolute; */
+    width: 50vw;
+    height: 100vh;
+    background-color: #ffffff;
+}
+.story3{
+    float: left;
+    width: 30vw;
+    height: 80vh;
+    margin-left: 10vw; margin-top: 5vw;
+    background-color:#333;
+    text-align: center;
+    font-size: 2rem;
+}
+
+
+/* =======page8======= */
+.story_img4{
+    width: 20vw;
+    height: 20vw;
+    margin: 13vw auto;
+    background-color: #ffffff;
+}
+.story4{
+    font-size: 2rem;
+    text-align: center;
+    margin-top: -10.5vw;
+    
+}
+
+/* =======page9======= */
+.p8_img1{
+    position: absolute;
+   right: 0; bottom: 0;
+    width: 40vw;
+    height: 30vw;
+    background-color: pink;
+}
+/* =======page10======= */
+.p8_img2{
+    position: absolute;
+    left: 0; bottom: 0;
+    width: 40vw;
+    height: 30vw;
+    background-color: palegoldenrod;
+}
+
+/* =======page11======= */
+.story5{
+    width: 60vw;
+    height: 50vh;
+    margin: 0 auto;
+    margin-bottom: 4.8vw;
+    background-color: #333;
+}
+.story5_1{
+    text-align: center;
+    font-size: 2rem;
+    background-color: #656565;
+}
+.story_img5{
+    width: 20vw;
+    height: 20vw;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: aqua;
+}
+
+/* =======page12======= */
+.story6{
+    position: absolute;
+    bottom: 5vw;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    font-size: 2rem;
+}
+/* =======page13======= */
+.story7{
+    position: absolute;
+    bottom: 5vw;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    font-size: 2rem;
+}
+/* =======page14======= */
+.p14_img{
+    position: relative;
+    float: left;
+    width: 25%;
+    height: 100vh;
+    box-sizing: border-box;
+}
+.p14_img2,.p14_img4{
+    background-color: #333;
+}
+.last_icon{
+    width: 15vw;
+    height: 18vw;
+    background-color: #ffffff;
+    position: absolute;
+    left: 50%; top:12vw;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+
+
